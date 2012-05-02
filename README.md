@@ -1,15 +1,13 @@
-ApEx(plorer) //Learning to use Amazon Product API
+ApEx(plorer) 
 =========
 
-A very simple library to grab data from Amazon Product API.
+A very simple library to grab data from Amazon Product API. Base for future personal project.
 
 Initial howtotalktoAmzProductApi built  by [Oren Trutner](http://flyingpies.wordpress.com/2009/08/01/17/)
 
 Sample:
 =========
 	class Program
-	{
-		class Program
 	{
 		static void Main(string[] args)
 		{
