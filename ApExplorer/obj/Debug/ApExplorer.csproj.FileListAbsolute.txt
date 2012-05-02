@@ -1,6 +1,0 @@
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\obj\Debug\ResolveAssemblyReference.cache
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\bin\Debug\APExplorer.dll.config
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\bin\Debug\APExplorer.dll
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\bin\Debug\APExplorer.pdb
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\obj\Debug\APExplorer.dll
-c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\obj\Debug\APExplorer.pdb
