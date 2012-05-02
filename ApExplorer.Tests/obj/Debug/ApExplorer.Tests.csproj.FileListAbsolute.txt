@@ -1,0 +1,7 @@
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\bin\Debug\ApExplorer.Tests.dll
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\bin\Debug\ApExplorer.Tests.pdb
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\bin\Debug\ApExplorer.dll
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\bin\Debug\ApExplorer.pdb
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\obj\Debug\ApExplorer.Tests.dll
+c:\users\briandek\documents\visual studio 2010\Projects\APEX\ApExplorer.Tests\obj\Debug\ApExplorer.Tests.pdb

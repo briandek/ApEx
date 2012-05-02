@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1efdd0da-9be5-4a8b-8098-59d213b79445" name="briandek@AIOROS 2012-05-01 21:33:57" runUser="Aioros\briandek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9fa807db-fb49-4185-8158-2ce6936dbd47">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="briandek_AIOROS 2012-05-01 21_33_57">
+      <DeploymentItem filename="c:\users\briandek\documents\visual studio 2010\Projects\APEX\APExplorer\bin\Debug\ApExplorer.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-01T21:33:57.2424665-04:00" queuing="2012-05-01T21:33:57.7954981-04:00" start="2012-05-01T21:33:57.8795029-04:00" finish="2012-05-01T21:33:59.7815824-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetABookTest" storage="c:\users\briandek\documents\visual studio 2010\projects\apex\apexplorer.tests\bin\debug\apexplorer.tests.dll" id="a905ff12-b913-f106-893a-6ebaecae8d68">
+      <Execution id="52af671e-e833-4892-a85c-1a2c6fb8393f" />
+      <TestMethod codeBase="c:/users/briandek/documents/visual studio 2010/Projects/APEX/ApExplorer.Tests/bin/Debug/ApExplorer.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ApExplorer.Tests.AmazonProductExplorerTests, ApExplorer.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetABookTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a905ff12-b913-f106-893a-6ebaecae8d68" executionId="52af671e-e833-4892-a85c-1a2c6fb8393f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="52af671e-e833-4892-a85c-1a2c6fb8393f" testId="a905ff12-b913-f106-893a-6ebaecae8d68" testName="GetABookTest" computerName="AIOROS" duration="00:00:01.1806795" startTime="2012-05-01T21:33:57.9585075-04:00" endTime="2012-05-01T21:33:59.7385800-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52af671e-e833-4892-a85c-1a2c6fb8393f">
+    </UnitTestResult>
+  </Results>
+</TestRun>
